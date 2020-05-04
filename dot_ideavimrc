@@ -1,0 +1,54 @@
+let mapleader = ' '
+
+set number
+set incsearch hlsearch
+set ignorecase smartcase
+set scrolloff=5
+set showmode
+set surround
+set easymotion
+set keep-english-in-normal
+set visualbell
+set noerrorbells
+
+inoremap jk <Esc>
+
+let @y = ''
+
+
+" noremap  <c-f> <c-d>
+" noremap  <c-b> <c-u>
+" VimMotionJump{Next,Previous}
+" nnoremap <c-p> <c-i>
+" nnoremap <c-[> <c-t>
+nnoremap <tab> <c-w>w
+nnoremap m <Nop>
+
+nnoremap Y y$
+nnoremap Q @q
+
+nnoremap [c :action VcsShowPrevChangeMarker<cr>
+nnoremap ]c :action VcsShowNextChangeMarker<cr>
+
+nnoremap gcc :action CommentByLineComment<cr>
+
+nmap <a-j> :m+<cr>
+nmap <a-k> :m-2<cr>
+nnoremap <BS> :noh<cr>
+nnoremap <CR> a<cr><esc>
+"noremap <leader>ff :action FindInPath<cr>
+"noremap <leader>fu :action FindUsages<cr>
+noremap <leader>su :action ShowUsages<cr>
+nnoremap <leader>gi :action GotoImplementation<cr>
+nnoremap <leader>gs :action GotoSuperMethod<cr>
+nnoremap <leader>gd :action GotoDeclaration<cr>
+nnoremap <leader>rl :action Vcs.RollbackChangedLines<cr>
+nnoremap <leader>cn :action VcsShowNextChangeMarker<cr>
+nnoremap <leader>cp :action VcsShowPrevChangeMarker<cr>
+nnoremap <leader>en :action GotoNextError<cr>
+nnoremap <leader>ep :action GotoPreviousError<cr>
+map <leader>f <Plug>(easymotion-s)
+noremap gm %
+nnoremap J :action PreviousTab<cr>
+nnoremap K :action NextTab<cr>
+
