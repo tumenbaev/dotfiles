@@ -51,4 +51,5 @@ map <leader>f <Plug>(easymotion-s)
 noremap gm %
 nnoremap J :action PreviousTab<cr>
 nnoremap K :action NextTab<cr>
+vnoremap p "_dP
 
