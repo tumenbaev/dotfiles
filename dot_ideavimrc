@@ -48,6 +48,7 @@ nnoremap <leader>cp :action VcsShowPrevChangeMarker<cr>
 nnoremap <leader>en :action GotoNextError<cr>
 nnoremap <leader>ep :action GotoPreviousError<cr>
 map <leader>f <Plug>(easymotion-s)
+map <leader>t <Plug>(easymotion-t)
 noremap gm %
 nnoremap J :action PreviousTab<cr>
 nnoremap K :action NextTab<cr>
