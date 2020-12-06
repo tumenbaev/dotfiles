@@ -34,6 +34,8 @@ nnoremap gcc :action CommentByLineComment<cr>
 
 nmap <a-j> :m+<cr>
 nmap <a-k> :m-2<cr>
+nnoremap } :action com.mnw.tabmover.actions.MoveTabDownAction<cr>
+nnoremap { :action com.mnw.tabmover.actions.MoveTabUpAction<cr>
 nnoremap <BS> :noh<cr>
 nnoremap <CR> a<cr><esc>
 "noremap <leader>ff :action FindInPath<cr>
