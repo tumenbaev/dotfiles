@@ -70,6 +70,10 @@ function fish_prompt
     if test "$USER" = 'root'
         set arrow "$arrow_color# "
     end
+    if test "$SSH_CLIENT"
+      set -l remote "ssh"
+      set arrow "$arrow_color$remote"
+    end
 
     set -l cwd $green(basename (prompt_pwd))
 
