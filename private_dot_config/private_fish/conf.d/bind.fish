@@ -1,0 +1,1 @@
+bind ƒ forward-word
