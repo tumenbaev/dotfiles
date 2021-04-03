@@ -4,7 +4,8 @@ abbr -a ga "git add"
 abbr -a gaa "git add --all ."
 abbr -a gbd "git branch -D"
 abbr -a gs "git status"
-abbr -a gca "git commit -a -m"
+abbr -a gst "git status"
+abbr -a gca "git commit --amend --no-edit"
 abbr -a gm "git merge --no-ff"
 abbr -a gpt "git push --tags"
 abbr -a gp "git push"
@@ -20,6 +21,9 @@ abbr -a gl2 "git log --pretty='format:%Cgreen%h%Creset %an - %s' --graph"
 abbr -a glv "git log --stat"
 abbr -a gpom "git pull origin master"
 abbr -a gcd 'cd "`git rev-parse --show-toplevel`"'
+abbr -a gf "git fetch"
+abbr -a grb "git rebase"
+abbr -a gup "git pull --rebase"
 
 # my aliases
 # remove files that are not under version control
