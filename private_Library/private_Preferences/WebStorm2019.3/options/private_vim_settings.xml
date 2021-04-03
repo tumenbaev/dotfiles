@@ -1,0 +1,634 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>common</entry>
+        <entry>font</entry>
+        <entry>body</entry>
+        <entry encoding="base64">XDx0aGVtZVw+</entry>
+        <entry>tone</entry>
+        <entry encoding="base64">XDxyZW5kZXJUb29sdGlwXD4=</entry>
+        <entry>info</entry>
+        <entry>as toolti</entry>
+        <entry>20</entry>
+        <entry>lang</entry>
+        <entry encoding="base64">XDxsYW5nXD4=</entry>
+        <entry encoding="base64">XDx0ZXh0c1w+</entry>
+        <entry encoding="base64">XDxJRGVmYXVsdFByb3BzXD4=</entry>
+        <entry>sandbox</entry>
+        <entry encoding="base64">OiA=</entry>
+        <entry>: i</entry>
+        <entry>,$</entry>
+        <entry>default</entry>
+        <entry>versi</entry>
+        <entry encoding="base64">XDxDQUNIRV9WRVJTSU9OXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/&quot;/'</entry>
+        <entry>%s/&quot;/'/g</entry>
+        <entry>%s/task-hardware/host-graphs/g</entry>
+        <entry encoding="base64">JzwsJz5zLywvOw==</entry>
+        <entry encoding="base64">JzwsJz5zLywkLzs=</entry>
+        <entry encoding="base64">JzwsJz5zLyAgLyAgLS0v</entry>
+        <entry>reg</entry>
+        <entry encoding="base64">JzwsJz5zLzogLz17</entry>
+        <entry encoding="base64">JzwsJz5zLywkL30=</entry>
+        <entry>action VcsShowPrevChangeMarker</entry>
+        <entry>action VcsShowNextChangeMarker</entry>
+        <entry>action GotoPreviousError</entry>
+        <entry>%s/: /={/</entry>
+        <entry>%s/: i/={i/</entry>
+        <entry>%s/,$/}</entry>
+        <entry>noh</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
+        <entry>action Vcs.RollbackChangedLines</entry>
+        <entry>action GotoNextError</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>alt pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>alt pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed SEMICOLON</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed SEMICOLON</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/common/ResetButton/index.tsx" timestamp="1599231297322">
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="2" column="41" />
+        <mark key="." line="2" column="40" />
+        <mark key="^" line="2" column="41" />
+      </file>
+      <file name="$USER_HOME$/Dev/work/unity-ui2/common/components/Table/index.tsx" timestamp="1599231741309">
+        <mark key="'" line="205" column="0" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="^" line="23" column="46" />
+        <mark key="." line="76" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/common/TasksList/List.tsx" timestamp="1599231319449">
+        <mark key="'" line="17" column="6" />
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="6" column="28" />
+        <mark key="^" line="65" column="26" />
+      </file>
+      <file name="$USER_HOME$/Dev/work/unity-ui2/common/components/Table/Table.css" timestamp="1599236019560">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="2" column="4" />
+        <mark key="." line="2" column="3" />
+      </file>
+      <file name="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/common/SchedulersList/Cells/Owner/styles.tsx" timestamp="1599237622724">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="22" />
+        <mark key="^" line="10" column="23" />
+      </file>
+      <file name="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/Groups/List/List.tsx" timestamp="1599231355394">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="35" />
+        <mark key="." line="10" column="34" />
+        <mark key="^" line="10" column="35" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1599240108068">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/Vault/List/List.tsx" timestamp="1599231472110">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="35" />
+        <mark key="." line="10" column="34" />
+        <mark key="^" line="10" column="35" />
+      </file>
+      <file name="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/Templates/TemplatesList/TemplatesList.tsx" timestamp="1599231926560">
+        <mark key="'" line="102" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/services/cache/index.ts" timestamp="1599235901428">
+        <mark key="'" line="4" column="13" />
+      </file>
+      <file name="$USER_HOME$/Dev/work/unity-ui2/sandbox/package.json" timestamp="1599238432621">
+        <mark key="'" line="35" column="50" />
+        <mark key="[" line="23" column="88" />
+        <mark key="]" line="23" column="88" />
+        <mark key="." line="23" column="87" />
+        <mark key="^" line="23" column="88" />
+      </file>
+      <file name="$USER_HOME$/Dev/work/unity-ui2/common/components/Values/JSON/style.css" timestamp="1599240122204">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="3" column="9" />
+      </file>
+      <file name="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/common/Copy/Copy.tsx" timestamp="1599231899940">
+        <mark key="'" line="0" column="18" />
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="19" />
+        <mark key="." line="15" column="19" />
+        <mark key="^" line="6" column="19" />
+      </file>
+      <file name="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/Task/Tabs/View/Edit/common/Content/index.tsx" timestamp="1599239988461">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+        <mark key="." line="6" column="14" />
+      </file>
+      <file name="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/Schedulers/List/SchedulersList/index.tsx" timestamp="1599231429580">
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="10" column="48" />
+        <mark key="." line="10" column="47" />
+        <mark key="^" line="10" column="48" />
+      </file>
+      <file name="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/Semaphores/List/List.tsx" timestamp="1599231439762">
+        <mark key="'" line="185" column="0" />
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="7" column="38" />
+        <mark key="." line="7" column="38" />
+      </file>
+      <file name="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/common/Table/index.ts" timestamp="1599231524008">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="33" />
+      </file>
+      <file name="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/common/SchedulersList/Cells/Owner/Owner.tsx" timestamp="1599236650624">
+        <mark key="'" line="13" column="6" />
+      </file>
+      <file name="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/Resources/List/ResourceList/index.tsx" timestamp="1599231408614">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="35" />
+        <mark key="." line="6" column="34" />
+        <mark key="^" line="6" column="35" />
+      </file>
+      <file name="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/common/Table/Table.tsx" timestamp="1599231821372">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+        <mark key="^" line="4" column="40" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="23" column="10" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/Templates/TemplatesList/TemplatesList.tsx" />
+      <jump line="27" column="26" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/Templates/TemplatesList/TemplatesList.tsx" />
+      <jump line="25" column="0" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/Templates/TemplatesList/TemplatesList.tsx" />
+      <jump line="45" column="14" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/Templates/TemplatesList/TemplatesList.tsx" />
+      <jump line="50" column="27" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/Templates/TemplatesList/TemplatesList.tsx" />
+      <jump line="47" column="14" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/Templates/TemplatesList/TemplatesList.tsx" />
+      <jump line="48" column="14" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/Templates/TemplatesList/TemplatesList.tsx" />
+      <jump line="154" column="41" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/Templates/TemplatesList/TemplatesList.tsx" />
+      <jump line="43" column="0" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/Templates/TemplatesList/TemplatesList.tsx" />
+      <jump line="99" column="32" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/Templates/TemplatesList/TemplatesList.tsx" />
+      <jump line="151" column="16" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/Templates/TemplatesList/TemplatesList.tsx" />
+      <jump line="148" column="24" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/Templates/TemplatesList/TemplatesList.tsx" />
+      <jump line="133" column="24" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/Templates/TemplatesList/TemplatesList.tsx" />
+      <jump line="118" column="24" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/Templates/TemplatesList/TemplatesList.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/Templates/TemplatesList/TemplatesList.tsx" />
+      <jump line="12" column="27" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/package.json" />
+      <jump line="23" column="87" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/package.json" />
+      <jump line="24" column="82" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/package.json" />
+      <jump line="29" column="52" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/package.json" />
+      <jump line="35" column="50" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/work/unity-ui2/package.json" />
+      <jump line="15" column="29" filename="$USER_HOME$/Dev/work/unity-ui2/package.json" />
+      <jump line="21" column="45" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/common/Status/Status.css" />
+      <jump line="43" column="4" filename="$USER_HOME$/Dev/work/unity-ui2/node_modules/@yandex-data-ui/common/styles/themes.scss" />
+      <jump line="124" column="0" filename="$USER_HOME$/Dev/work/unity-ui2/node_modules/@yandex-data-ui/common/styles/fonts.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/work/unity-ui2/node_modules/@yandex-data-ui/common/styles/fonts.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/work/unity-ui2/node_modules/@yandex-data-ui/common/styles/mixins.scss" />
+      <jump line="11" column="4" filename="$USER_HOME$/Dev/work/unity-ui2/node_modules/@yandex-data-ui/common/styles/mixins.scss" />
+      <jump line="12" column="4" filename="$USER_HOME$/Dev/work/unity-ui2/node_modules/@yandex-data-ui/common/styles/mixins.scss" />
+      <jump line="27" column="31" filename="$USER_HOME$/Dev/work/unity-ui2/node_modules/@yandex-data-ui/common/styles/themes.scss" />
+      <jump line="30" column="14" filename="$USER_HOME$/Dev/work/unity-ui2/node_modules/@yandex-data-ui/common/styles/themes.scss" />
+      <jump line="31" column="14" filename="$USER_HOME$/Dev/work/unity-ui2/node_modules/@yandex-data-ui/common/styles/themes.scss" />
+      <jump line="80" column="29" filename="$USER_HOME$/Dev/work/unity-ui2/node_modules/@yandex-data-ui/common/styles/themes.scss" />
+      <jump line="81" column="31" filename="$USER_HOME$/Dev/work/unity-ui2/node_modules/@yandex-data-ui/common/styles/themes.scss" />
+      <jump line="117" column="0" filename="$USER_HOME$/Dev/work/unity-ui2/node_modules/@yandex-data-ui/common/styles/themes.scss" />
+      <jump line="159" column="12" filename="$USER_HOME$/Dev/work/unity-ui2/common/components/Copy/index.tsx" />
+      <jump line="48" column="4" filename="$USER_HOME$/Dev/work/data-ui/ui-common-components/src/components/Tooltip/Tooltip.tsx" />
+      <jump line="180" column="22" filename="$USER_HOME$/Dev/work/data-ui/ui-common-components/src/components/Tooltip/Tooltip.tsx" />
+      <jump line="190" column="59" filename="$USER_HOME$/Dev/work/data-ui/ui-common-components/src/components/Tooltip/Tooltip.tsx" />
+      <jump line="232" column="32" filename="$USER_HOME$/Dev/work/data-ui/ui-common-components/src/components/Tooltip/Tooltip.tsx" />
+      <jump line="262" column="36" filename="$USER_HOME$/Dev/work/data-ui/ui-common-components/src/components/Tooltip/Tooltip.tsx" />
+      <jump line="270" column="28" filename="$USER_HOME$/Dev/work/data-ui/ui-common-components/src/components/Tooltip/Tooltip.tsx" />
+      <jump line="275" column="16" filename="$USER_HOME$/Dev/work/data-ui/ui-common-components/src/components/Tooltip/Tooltip.tsx" />
+      <jump line="287" column="36" filename="$USER_HOME$/Dev/work/data-ui/ui-common-components/src/components/Tooltip/Tooltip.tsx" />
+      <jump line="286" column="28" filename="$USER_HOME$/Dev/work/data-ui/ui-common-components/src/components/Tooltip/Tooltip.tsx" />
+      <jump line="148" column="16" filename="$USER_HOME$/Dev/work/data-ui/ui-common-components/src/components/Tooltip/Tooltip.tsx" />
+      <jump line="303" column="16" filename="$USER_HOME$/Dev/work/data-ui/ui-common-components/src/components/Tooltip/Tooltip.tsx" />
+      <jump line="7" column="11" filename="$USER_HOME$/Dev/work/data-ui/ui-common-components/src/components/Tooltip/Tooltip.tsx" />
+      <jump line="21" column="49" filename="$USER_HOME$/Dev/work/data-ui/ui-common-components/src/components/Tooltip/Tooltip.tsx" />
+      <jump line="25" column="49" filename="$USER_HOME$/Dev/work/data-ui/ui-common-components/src/components/Tooltip/Tooltip.tsx" />
+      <jump line="130" column="12" filename="$USER_HOME$/Dev/work/data-ui/ui-common-components/src/components/Tooltip/Tooltip.tsx" />
+      <jump line="94" column="24" filename="$USER_HOME$/Dev/work/data-ui/ui-common-components/src/components/Tooltip/Tooltip.tsx" />
+      <jump line="111" column="22" filename="$USER_HOME$/Dev/work/data-ui/ui-common-components/src/components/Tooltip/Tooltip.tsx" />
+      <jump line="50" column="5" filename="$USER_HOME$/Dev/work/data-ui/ui-common-components/src/components/Tooltip/Tooltip.tsx" />
+      <jump line="198" column="37" filename="$USER_HOME$/Dev/work/unity-ui2/common/components/Copy/index.tsx" />
+      <jump line="9" column="15" filename="$USER_HOME$/Dev/work/unity-ui2/common/components/Tooltip/index.tsx" />
+      <jump line="59" column="48" filename="$USER_HOME$/Dev/work/unity-ui2/common/components/Tooltip/index.tsx" />
+      <jump line="97" column="0" filename="$USER_HOME$/Dev/work/unity-ui2/common/components/Tooltip/index.tsx" />
+      <jump line="25" column="4" filename="$USER_HOME$/Dev/work/unity-ui2/node_modules/@yandex-data-ui/common/styles/themes.scss" />
+      <jump line="28" column="33" filename="$USER_HOME$/Dev/work/unity-ui2/node_modules/@yandex-data-ui/common/styles/themes.scss" />
+      <jump line="37" column="32" filename="$USER_HOME$/Dev/work/unity-ui2/node_modules/@yandex-data-ui/common/styles/themes.scss" />
+      <jump line="59" column="34" filename="$USER_HOME$/Dev/work/unity-ui2/node_modules/@yandex-data-ui/common/styles/themes.scss" />
+      <jump line="65" column="41" filename="$USER_HOME$/Dev/work/unity-ui2/node_modules/@yandex-data-ui/common/styles/themes.scss" />
+      <jump line="19" column="0" filename="$USER_HOME$/Dev/work/unity-ui2/node_modules/@yandex-data-ui/common/styles/themes.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/work/unity-ui2/node_modules/@yandex-data-ui/common/styles/themes.scss" />
+      <jump line="32" column="0" filename="$USER_HOME$/Dev/work/unity-ui2/node_modules/@yandex-data-ui/common/styles/themes.scss" />
+      <jump line="19" column="8" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/Clients/Actions/ShortClientCopier/index.tsx" />
+      <jump line="22" column="12" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/Clients/Actions/ShortClientCopier/index.tsx" />
+      <jump line="27" column="13" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/Clients/Actions/ShortClientCopier/index.tsx" />
+      <jump line="73" column="30" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/Clients/Actions/ShortClientCopier/index.tsx" />
+      <jump line="15" column="25" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/Clients/Actions/ShortClientCopier/index.tsx" />
+      <jump line="33" column="0" filename="$USER_HOME$/Dev/work/unity-ui2/common/components/Copy/index.tsx" />
+      <jump line="49" column="4" filename="$USER_HOME$/Dev/work/unity-ui2/common/components/Copy/index.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/work/unity-ui2/tsconfig.json" />
+      <jump line="16" column="17" filename="$USER_HOME$/Dev/work/unity-ui2/common/components/Copy/index.tsx" />
+      <jump line="22" column="6" filename="$USER_HOME$/Dev/work/unity-ui2/common/components/Copy/index.tsx" />
+      <jump line="10" column="24" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/common/Copy/Copy.tsx" />
+      <jump line="26" column="17" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/common/TableCells/StatusAndId/StatusAndId.tsx" />
+      <jump line="5" column="14" filename="$USER_HOME$/Dev/work/unity-ui2/common/components/Copy/index.tsx" />
+      <jump line="16" column="27" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/common/Table/Table.tsx" />
+      <jump line="3" column="0" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/common/Table/Table.tsx" />
+      <jump line="31" column="6" filename="$USER_HOME$/Dev/work/unity-ui2/common/components/Table/index.tsx" />
+      <jump line="1" column="0" filename="$USER_HOME$/Dev/work/unity-ui2/common/components/Table/index.tsx" />
+      <jump line="2" column="7" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/common/Table/Table.tsx" />
+      <jump line="10" column="8" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/common/Table/Table.tsx" />
+      <jump line="14" column="8" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/common/Table/Table.tsx" />
+      <jump line="76" column="0" filename="$USER_HOME$/Dev/work/unity-ui2/common/components/Table/index.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/work/unity-ui2/common/components/Table/index.tsx" />
+      <jump line="45" column="4" filename="$USER_HOME$/Dev/work/unity-ui2/common/components/Table/index.tsx" />
+      <jump line="66" column="33" filename="$USER_HOME$/Dev/work/unity-ui2/common/components/Table/index.tsx" />
+      <jump line="205" column="0" filename="$USER_HOME$/Dev/work/unity-ui2/common/components/Table/index.tsx" />
+      <jump line="17" column="0" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/common/Table/Table.tsx" />
+      <jump line="100" column="13" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/Templates/TemplatesList/TemplatesList.tsx" />
+      <jump line="7" column="53" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/Templates/TemplatesList/TemplatesList.tsx" />
+      <jump line="0" column="18" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/common/Copy/Copy.tsx" />
+      <jump line="102" column="0" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/Templates/TemplatesList/TemplatesList.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/services/cache/index.ts" />
+      <jump line="14" column="13" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/services/cache/index.ts" />
+      <jump line="4" column="13" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/services/cache/index.ts" />
+      <jump line="13" column="6" filename="$USER_HOME$/Dev/work/unity-ui2/sandbox/src/components/common/SchedulersList/Cells/Owner/Owner.tsx" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgICAgICAvKiogQHByaXZhdGUgKi8KICAgICAgICBmZWF0dXJlc186IHsKICAgICAgICAgIHR5cGU6IE9iamVjdCwKICAgICAgICAgIHN0YXRlUGF0aDogJ2ZlYXR1cmVzJywKICAgICAgICB9LAoK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG1heC13aWR0aDogMTAwJTsK</text>
+      </register>
+      <register name="d" type="2">
+        <text encoding="base64">ICAgICAgZ2V0U3RvcmUoKS5kaXNwYXRjaCh3aW5kb3cub3B0aW9ucy5hY3Rpb25zLmNvbW1vbi5pbml0RmVhdHVyZXMoKSk7Cg==</text>
+      </register>
+      <register name="e" type="4">
+        <keys>
+          <key char="121" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="80" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="84" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="80" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="84" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="65535" code="91" mods="130" />
+          <key char="112" code="0" mods="0" />
+          <key char="65535" code="91" mods="130" />
+          <key char="58" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="78" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="84" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="78" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="84" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+        </keys>
+      </register>
+      <register name="f" type="4">
+        <keys>
+          <key char="102" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="91" mods="130" />
+          <key char="105" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+        </keys>
+      </register>
+      <register name="*" type="4">
+        <text>@yandex-lego/ui.suggest2</text>
+      </register>
+      <register name="j" type="4">
+        <text>schedulerTaskArchive</text>
+      </register>
+      <register name="k" type="4">
+        <keys>
+          <key char="48" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="79" code="0" mods="0" />
+          <key char="65535" code="91" mods="130" />
+          <key char="112" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="70" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="70" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="84" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="91" mods="130" />
+        </keys>
+      </register>
+      <register name="l" type="4">
+        <text />
+      </register>
+      <register name="-" type="4">
+        <text>min-width</text>
+      </register>
+      <register name="m" type="4">
+        <text>&quot;&quot;di(&quot;&quot;da(&quot;&quot;P`[</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxDQUNIRV9WRVJTSU9OXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG1heC13aWR0aDogMTAwJTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIG1heC13aWR0aDogMTAwJTsK</text>
+      </register>
+      <register name="q" type="4">
+        <text>//</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIG1pbi13aWR0aDogOwo=</text>
+      </register>
+      <register name="r" type="4">
+        <keys>
+          <key char="47" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="3" type="2">
+        <text>pr-template</text>
+      </register>
+      <register name="s" type="4">
+        <keys>
+          <key char="99" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+          <key char="102" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW50ZXJmYWNlIFRhYmxlUHJvcHMge30K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0b3RhbFRleHQ6IGkxOG4oJ2xhYmVsX3RvdGFsJyksCiAgICAgICAgbmV4dFRleHQ6IGkxOG4oJ2J1dHRvbl9uZXh0LXBhZ2UnKSwKICAgICAgICBwcmV2aW91c1RleHQ6IGkxOG4oJ2J1dHRvbl9wcmV2aW91cy1wYWdlJyksCiAgICAgICAgbm9EYXRhVGV4dDogaTE4bignbGFiZWxfbm8tZGF0YS10ZXh0JyksCiAgICAgICAgbm9EYXRhRGVzY3JpcHRpb246IGkxOG4oJ2xhYmVsX25vLWRhdGEtZGVzY3JpcHRpb24nKSwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3QgaTE4biA9IEkxOG4ua2V5c2V0KCk7Cg==</text>
+      </register>
+      <register name="w" type="4">
+        <text />
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IEkxOG4gZnJvbSAnc2FuZGJveC9zcmMvaTE4bic7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="y" type="4">
+        <text />
+      </register>
+      <register name=":" type="4">
+        <text>action GotoNextError</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDxDQUNIRV9WRVJTSU9OXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxDQUNIRV9WRVJTSU9OXD4=</last-pattern>
+      <last-replace>}</last-replace>
+      <last-substitute>,$</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="true" />
+      <idea-put enabled="true" />
+    </notifications>
+  </component>
+</application>
