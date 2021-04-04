@@ -8,15 +8,31 @@
     <option name="LINE_SPACING" value="1.15" />
   </component>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="TypeScript" value="true" />
+      </map>
+    </option>
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="SHOW_INTENTION_BULB" value="false" />
     <option name="IS_CARET_BLINKING" value="false" />
     <option name="CARET_BLINKING_PERIOD" value="1500" />
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_ANIMATED_SCROLLING" value="false" />
     <option name="IS_DND_ENABLED" value="false" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="JavaScript.js.chain.hints" />
+        <option value="JavaScript.js.type.hints" />
+        <option value="TypeScript.ts.type.hints" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
   <component name="LiveEditOptions" autoDelay="1000" restartIfHotSwapFailed="true" updatePolicy="AUTO" />
 </application>
