@@ -77,7 +77,11 @@
                             },
                             {
                                 "from": {
+                                    {{- if eq .is_russian true }}
                                     "key_code": "non_us_backslash",
+                                    {{ else }}
+                                    "key_code": "grave_accent_and_tilde",
+                                    {{ end -}}
                                     "modifiers": {
                                         "mandatory": [
                                             "left_control"
@@ -292,7 +296,7 @@
                                 "type": "basic"
                             }
                         ]
-                    },
+                    }{{ if eq .is_russian true }},
                     {
                         "description": "Change enter to control if pressed with other keys, to enter if pressed alone.",
                         "manipulators": [
@@ -339,7 +343,7 @@
                                 "type": "basic"
                             }
                         ]
-                    }
+                    }{{ end }}
                 ]
             },
             "devices": [
